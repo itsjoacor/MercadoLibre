@@ -1,18 +1,10 @@
-# Enunciado
+# MercadoLibre
 
-https://github.com/unq-ui/material/tree/master/TPs/2024s2
+## About
+Este proyecto simula el desarrollo conceptual de la web de MercadoLibre, utilizando una base de datos dummy con fines educativos. Se basa en la arquitectura y el diseño de aplicaciones de comercio electrónico.
 
-# Modelo
+## Tecnologías
+El frontend fue desarrollado utilizando JavaScript, Tailwind CSS, React, y Vite, mientras que el backend utiliza Node.js y una API REST para manejar la interacción con los datos simulados.
 
-https://github.com/unq-ui/mercadolibre-model
-
-## Tener en cuenta
-
-Los siguientes archivos y/o carpetas no se suben al repo
-
-* Los archivos .iml 
-* /target
-* /node_modules
-* .log
-
-Dentro de las carpetas que nosotros subimos tienen que estar su proyecto directamente, eso significa que por ejemplo dentro de la carpeta de arena espero ver el `pom.xml` y la carpeta `src`
+## More
+El proyecto tiene un enfoque educativo para aprender a manejar arquitecturas de aplicaciones de comercio electrónico a pequeña escala.
