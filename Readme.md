@@ -7,11 +7,11 @@
 ![API REST](https://img.shields.io/badge/API%20REST-02569B?style=for-the-badge&logo=api&logoColor=white)
 
 
-## About
-Este proyecto simula el desarrollo conceptual de la web de MercadoLibre, utilizando una base de datos dummy con fines educativos. Se basa en la arquitectura y el diseño de aplicaciones de comercio electrónico.
+# About
+This project simulates the conceptual development of the MercadoLibre website, using a dummy database for educational purposes. It is based on the architecture and design of e-commerce applications.
 
-## Tecnologías
-El frontend fue desarrollado utilizando JavaScript, Tailwind CSS, React, y Vite, mientras que el backend utiliza Node.js y una API REST para manejar la interacción con los datos simulados.
+# Technologies
+The frontend was developed using JavaScript, Tailwind CSS, React, and Vite, while the backend utilizes Node.js and a REST API to handle interaction with the simulated data.
 
-## More
-El proyecto tiene un enfoque educativo para aprender a manejar arquitecturas de aplicaciones de comercio electrónico a pequeña escala.
+# More
+The project has an educational focus to learn how to manage small-scale e-commerce application architectures.
