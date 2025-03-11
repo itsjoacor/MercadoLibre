@@ -26,6 +26,7 @@ class Api {
 
     init {
         app = Javalin.create { config ->
+            config.bundledPlugins.enableCors { cors -> cors.addRule { it.anyHost() } }
             config.http.defaultContentType = "application/json"
             config.router.apiBuilder {
                 path("/login") {

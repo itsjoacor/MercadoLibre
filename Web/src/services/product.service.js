@@ -77,7 +77,6 @@ export const newProduct = async ({title, description, price, images, stock, ship
 
 export const updateProduct = async ({id, title, description, price, images, stock, shipping, characteristics, categoryId:category}) => {
     const token = localStorage.getItem('jwt');
-    debugger;
     const res = await axiosInstance.put(`/products/${id}`, 
         {
             title, 
